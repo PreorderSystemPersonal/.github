@@ -2,7 +2,7 @@
 예약 구매 사이트
 
 ## 📌요구사항
-* JWT와 SECURITY를 이용한 유저관리
+* Jwt와 Security를 이용한 유저관리
 * Docker를 기반으로 MSA 구축
 * 예약 구매를 위한 API 생성
   * 상품 목록 API
